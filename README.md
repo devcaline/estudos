@@ -24,6 +24,7 @@ estudos/
 | Algoritmo e Lab. de Programação | [AV3 — Sistema de Gestão Acadêmica](faculdade/lab-de-programacao/av3-gerenciamento-alunos/) | C |
 | Análise Orientada a Objetos | [AV3 — Nexo, plataforma para psicólogos](https://github.com/devcaline/nexo-modelagem-av3) *(repositório próprio)* | UML |
 | Programação Orientada a Objetos | [Extensão — Urna Cidadã, simulador de urna eletrônica](https://github.com/devcaline/urna-cidada) *(repositório próprio)* | Java |
+| Modelagem e Simulação Matemática | [AV3 — LogicPlay, jogo educativo de conjuntos e tabela-verdade](https://github.com/devcaline/logicplay) *(repositório próprio)* | React |
 
 ## Projetos em Java
 
@@ -35,6 +36,7 @@ Veja a pasta [`java/`](java/).
   (ex.: `faculdade/banco-de-dados/av1-modelagem/`)
 - **Projeto pessoal em Java** → `java/<numero>-<nome>/` (ex.: `java/01-calculadora/`)
 - Nomes de pastas em minúsculas, sem acento e com hífen no lugar de espaço.
+- Programa em C de um arquivo só → `main.c`. Lista de exercícios → um arquivo por questão (`questao1.c`, `questao2.c`...).
 - Trabalho grande, em grupo ou avaliado pelo repositório → **repositório próprio**, com um link na tabela acima.
 - Todo projeto tem um `README.md` explicando o que é e como executar.
 - Vídeos de apresentação entram como **link** no README do projeto, nunca como arquivo.
