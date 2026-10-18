@@ -22,7 +22,7 @@ estudos/
 | Estrutura de Dados | [AV3 — Playlist, Chamadas de Emergência e Fila de Impressão](faculdade/estrutura-de-dados/av3/) | C |
 | Estrutura de Dados | [Lista de questões — Pilha](faculdade/estrutura-de-dados/lista-pilha/) | C |
 | Algoritmo e Lab. de Programação | [AV3 — Sistema de Gestão Acadêmica](faculdade/lab-de-programacao/av3-gerenciamento-alunos/) | C |
-| Análise Orientada a Objetos | [AV3 — Nexo, plataforma para psicólogos](https://github.com/devcaline/nexo-modelagem-av3) *(repositório próprio)* | UML |
+| Análise Orientada a Objetos | [AV3 — Nexo, plataforma para psicólogos](https://github.com/devcaline/nexo-modelagem) *(repositório próprio)* | UML |
 | Programação Orientada a Objetos | [Extensão — Urna Cidadã, simulador de urna eletrônica](https://github.com/devcaline/urna-cidada) *(repositório próprio)* | Java |
 | Modelagem e Simulação Matemática | [AV3 — LogicPlay, jogo educativo de conjuntos e tabela-verdade](https://github.com/devcaline/logicplay) *(repositório próprio)* | React |
 
