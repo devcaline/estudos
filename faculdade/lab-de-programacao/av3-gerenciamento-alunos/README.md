@@ -1,4 +1,4 @@
-# 🎓 Sistema de Gestão Acadêmica — AV3
+# Sistema de Gestão Acadêmica — AV3
 
 > Trabalho da **Avaliação 3 (AV3)** da disciplina de **Algoritmo e Laboratório de Programação**.
 
@@ -6,7 +6,7 @@ Sistema de cadastro e gerenciamento acadêmico desenvolvido em **Linguagem C**, 
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O sistema simula o controle acadêmico de uma instituição de ensino, gerenciando quatro entidades relacionadas entre si:
 
@@ -28,7 +28,7 @@ Matrícula
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 ### Operações principais (menu)
 
@@ -46,7 +46,7 @@ Matrícula
 
 ---
 
-## 🛡️ Validações e Regras de Integridade
+## Validações e Regras de Integridade
 
 - ✅ **CPF** no formato `000.000.000-00` (14 caracteres, pontos e traço nas posições corretas).
 - ✅ **Datas** no formato `DD/MM/AAAA`.
@@ -57,7 +57,7 @@ Matrícula
 
 ---
 
-## 🗂️ Estrutura do Código
+## Estrutura do Código
 
 O programa está organizado em blocos de funções com responsabilidades bem definidas:
 
@@ -73,13 +73,13 @@ As melhorias reutilizam as funções de busca já existentes, evitando duplicaç
 
 ---
 
-## ⚙️ Como Compilar e Executar
+## Como Compilar e Executar
 
 > O programa usa `system("clear")` e `sleep()`, sendo voltado a ambientes **Linux/macOS**.
 
 ```bash
 # Compilar
-gcc gerenciamentoAlunos.c -o gerenciamentoAlunos
+gcc main.c -o gerenciamentoAlunos
 
 # Executar
 ./gerenciamentoAlunos
@@ -87,14 +87,14 @@ gcc gerenciamentoAlunos.c -o gerenciamentoAlunos
 
 ---
 
-## 🧰 Tecnologias
+## Tecnologias
 
 - **Linguagem C** (padrão C99+)
 - Bibliotecas: `stdio.h`, `string.h`, `stdlib.h`, `stdbool.h`, `locale.h`, `unistd.h`, `ctype.h`
 
 ---
 
-## 📚 Contexto Acadêmico
+## Contexto Acadêmico
 
 | | |
 |---|---|

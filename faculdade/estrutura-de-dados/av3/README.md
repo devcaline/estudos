@@ -28,8 +28,8 @@ Todos os projetos são escritos em C e compilados com `gcc`. Dentro da pasta do
 tema desejado:
 
 ```bash
-gcc nome_do_arquivo.c -o programa
+gcc main.c -o programa
 ./programa
 ```
 
-Consulte o README de cada pasta para o nome exato do arquivo e do executável.
+Consulte o README de cada pasta para o nome do executável.

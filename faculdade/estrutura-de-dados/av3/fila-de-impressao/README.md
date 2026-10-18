@@ -71,4 +71,3 @@ impressao.exe
 
 - [`main.c`](main.c) — código-fonte completo do programa.
 - [`impressao.csv`](impressao.csv) — arquivo de persistência das filas (gerado/lido pelo programa).
-- [`comandoCompilacao`](comandoCompilacao) — anotações de compilação e execução.

@@ -1,10 +1,21 @@
-# 🚨 Sistema de Chamadas de Emergência (Pilha - Tema B2)
+# Tema B2 — Chamadas de Emergência
 
-# 📌 Funcionalidades
+Projeto da **AV3** de Estrutura de Dados — UNIJORGE, Turma A.
 
-- Registrar chamada (Push)
-- Atender chamada (Pop)
-- Consultar última chamada (Peek)
+**Responsável:** William Silva Lago
+
+## Descrição
+
+Programa de console em C que gerencia **chamadas de emergência** usando uma
+**pilha**: a última chamada registrada é a primeira a ser atendida. Os dados
+podem ser salvos e carregados de um arquivo CSV, e o relatório pode ser
+exportado em TXT.
+
+## Funcionalidades
+
+- Registrar chamada (push)
+- Atender chamada (pop)
+- Consultar última chamada (peek)
 - Listar todas as chamadas
 - Salvar dados em CSV
 - Carregar dados de CSV
@@ -14,24 +25,9 @@
 - Validação de horário (HH:MM)
 - Controle automático de protocolo
 
----
+## Menu do sistema
 
-# 🧪 Compilação do Programa
-
-## 📍 1. Abrir o terminal
-
-Navegue até a pasta do projeto:
-
-# Exemplo
-- cd Desktop\Users\Projeto
-
-- gcc -std=c99 -Wall -pedantic main.c -o main.exe
-
-#Executar o Programa
-- .\main.exe
-
-# 🧭 Menu do Sistema
-
+```text
 1 - Registrar chamada
 2 - Atender chamada
 3 - Consultar última chamada
@@ -42,3 +38,31 @@ Navegue até a pasta do projeto:
 8 - Exportar relatório TXT
 9 - Limpar pilha
 0 - Sair
+```
+
+## Como compilar e executar
+
+Pré-requisito: ter o compilador **gcc** instalado.
+
+Dentro desta pasta (`chamadas-de-emergencia/`):
+
+```bash
+# Compilar
+gcc -std=c99 -Wall -pedantic main.c -o chamadas
+
+# Executar
+./chamadas
+```
+
+No Windows (com MinGW), o executável é `chamadas.exe`:
+
+```bash
+gcc -std=c99 -Wall -pedantic main.c -o chamadas.exe
+chamadas.exe
+```
+
+## Arquivos
+
+- [`main.c`](main.c) — código-fonte completo do programa.
+- [`chamadas.csv`](chamadas.csv) — arquivo de persistência das chamadas (gerado/lido pelo programa).
+- [`relatorio.txt`](relatorio.txt) — exemplo de relatório exportado pelo programa.

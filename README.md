@@ -1,11 +1,11 @@
-# 📚 Estudos
+# Estudos
 
 Repositório com os trabalhos da graduação em **Ciência da Computação** (UNIJORGE) e projetos pessoais de programação.
 
-## 📂 Estrutura
+## Estrutura
 
 ```text
-Estudos/
+estudos/
 ├── faculdade/                      # trabalhos e exercícios, separados por disciplina
 │   ├── estrutura-de-dados/
 │   │   ├── av3/                    # 3 projetos em C (playlist, chamadas, fila de impressão)
@@ -15,7 +15,7 @@ Estudos/
 └── java/                           # projetos pessoais em Java
 ```
 
-## 🎓 Faculdade
+## Faculdade
 
 | Disciplina | Trabalho | Linguagem |
 |------------|----------|-----------|
@@ -25,11 +25,11 @@ Estudos/
 | Análise Orientada a Objetos | [AV3 — Nexo, plataforma para psicólogos](https://github.com/devcaline/nexo-modelagem-av3) *(repositório próprio)* | UML |
 | Programação Orientada a Objetos | [Extensão — Urna Cidadã, simulador de urna eletrônica](https://github.com/devcaline/urna-cidada) *(repositório próprio)* | Java |
 
-## ☕ Projetos em Java
+## Projetos em Java
 
 Veja a pasta [`java/`](java/).
 
-## 🗂️ Padrão de organização
+## Padrão de organização
 
 - **Trabalho da faculdade** → `faculdade/<disciplina>/<avaliacao-ou-lista>/`
   (ex.: `faculdade/banco-de-dados/av1-modelagem/`)

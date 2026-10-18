@@ -7,6 +7,8 @@
 *.o
 faculdade/estrutura-de-dados/av3/playlist-de-musicas/playlist
 faculdade/lab-de-programacao/av3-gerenciamento-alunos/gerenciamentoAlunos
+faculdade/estrutura-de-dados/av3/chamadas-de-emergencia/chamadas
+faculdade/estrutura-de-dados/av3/fila-de-impressao/impressao
 
 # Java
 *.class

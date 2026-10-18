@@ -50,7 +50,7 @@ Dentro desta pasta (`playlist-de-musicas/`):
 
 ```bash
 # Compilar
-gcc playlist.c -o playlist
+gcc main.c -o playlist
 
 # Executar
 ./playlist
@@ -59,10 +59,10 @@ gcc playlist.c -o playlist
 No Windows (com MinGW), o executável é `playlist.exe`:
 
 ```bash
-gcc playlist.c -o playlist.exe
+gcc main.c -o playlist.exe
 playlist.exe
 ```
 
 ## Arquivos
 
-- [`playlist.c`](playlist.c) — código-fonte completo do programa.
+- [`main.c`](main.c) — código-fonte completo do programa.

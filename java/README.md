@@ -1,4 +1,4 @@
-# ☕ Projetos em Java
+# Projetos em Java
 
 Projetinhos pessoais para praticar Java. Cada projeto fica na sua própria pasta, numerada na ordem em que foi feito.
 
